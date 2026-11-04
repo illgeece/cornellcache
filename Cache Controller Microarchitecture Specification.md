@@ -2,8 +2,8 @@
 
 Oct 24, 2026 · @illgeece
 
-https://makerchip.com/v201/ide/~0gJfxcj/p-0lQc1
-
+[https://makerchip.com/v201/ide/~0gJfxcj/p-0lQc1
+](https://makerchip.com/v201/ide/~0jRfMcRp/p-0nQc6)
 This spec defines a blocking L1 cache controller before any RTL is written; fill it in top to bottom, because each section constrains the next.
 
 - Italic lines are prompts. Delete each one once its section is written.
